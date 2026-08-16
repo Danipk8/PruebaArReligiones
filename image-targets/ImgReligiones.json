@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 60,
+    "left": 0,
+    "width": 720,
+    "height": 960,
+    "isRotated": true,
+    "originalWidth": 720,
+    "originalHeight": 1080
+  },
+  "imagePath": "image-targets/ImgReligiones_luminance.jpg",
+  "metadata": null,
+  "name": "ImgReligiones",
+  "resources": {
+    "originalImage": "ImgReligiones_original.jpg",
+    "croppedImage": "ImgReligiones_cropped.jpg",
+    "thumbnailImage": "ImgReligiones_thumbnail.jpg",
+    "luminanceImage": "ImgReligiones_luminance.jpg"
+  },
+  "created": 1786847615352,
+  "updated": 1786847615352
+}
